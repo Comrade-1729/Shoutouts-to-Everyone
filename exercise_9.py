@@ -16,7 +16,7 @@ def pronounce_names(names):
         speaker.Speak(name)
 
 # List of names to pronounce
-names_list = ["Pinky", "Guddu", "Tabu", "Zuby", "Ishaan"]
+names_list = ["Ed","Prateek","Enrique","Michael","Arijit","Mohit","Shreya"]
 
 # Define an event handler class using snake_case argument names
 # class SpeechEvents:
